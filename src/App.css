@@ -1,0 +1,18 @@
+img {
+  border-radius: 30px;
+}
+
+#userImg{
+  border-radius: 100px;
+}
+
+.text{
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size:x-large;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
