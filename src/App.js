@@ -44,7 +44,7 @@ class App extends Component {
             <Switch>
               <Route
                 exact
-                path="/newApp"
+                path="/"
                 render={(props) => <Users rows={this.state.rows} />}
               />
               <Route
