@@ -3,7 +3,7 @@ import "./App.css";
 import React, { Component } from "react";
 import Users from "./components/users.jsx";
 import User from "./components/userDetails.jsx";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 class App extends Component {
   state = {
